@@ -25,7 +25,7 @@ public class ChestGui extends NamedGui
 
         this.rows = rows;
 
-        this.inventoryComponent = new InventoryComponent(9, rows * 4);
+        this.inventoryComponent = new InventoryComponent(9, rows);
     }
 
     @Override
