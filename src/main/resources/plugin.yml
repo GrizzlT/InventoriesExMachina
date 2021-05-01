@@ -1,0 +1,6 @@
+name: InventoriesExMachina
+version: @version@
+main: com.github.grizzlt.inventoriesexmachina.Inventoriesexmachina
+api-version: 1.13
+authors: [GrizzlT]
+description: An inventory plugin that is compatible with 1.13+
