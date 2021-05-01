@@ -32,6 +32,7 @@ public class GuiItem
         this.action = action;
         this.itemStack = itemStack;
 
+        this.applyUUID();
     }
 
     public GuiItem(ItemStack itemStack)
